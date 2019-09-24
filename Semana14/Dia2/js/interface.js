@@ -1,0 +1,11 @@
+class Interface{
+
+    crearCurso(objCurso){
+        
+
+    }
+
+
+
+
+}
